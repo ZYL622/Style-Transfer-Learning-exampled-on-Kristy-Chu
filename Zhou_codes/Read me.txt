@@ -1,0 +1,5 @@
+These three files of codes are mofied based on the starting shared codes to achieve the goal of imitation. 
+
+For the application of the orgnial work and the style transfer to videos, I directly used the shared code.
+The link to the codes of the original approach: https://github.com/jeffheaton/t81_558_deep_learning
+The link to the codes of the AdaIN: https://github.com/tg-bomze/Style-Transfer-Collection/blob/master/(Video)_pytorch_AdaIN.ipynb
